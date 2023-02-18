@@ -14,6 +14,8 @@ It's really simple, the script reads the server credentials from the config file
 4. Open cmd (same dir) and type ```py server_manager.py```
 
 
+
+
 ⚠️Warning: This script is created for educational purposes and only, Im am not responsible for any wrong/illegal use of the code!
 
 
