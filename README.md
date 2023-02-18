@@ -1,5 +1,6 @@
 # Server Manager
-A VERY Simple Python Script to mass execute commands in multiple servers using ssh
+A VERY Simple Python Script to mass execute commands in multiple servers using ssh.
+This script can be used for mass restarting or mass package installing in multiple servers!
 
 
 # How it works:
