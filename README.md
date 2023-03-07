@@ -8,6 +8,7 @@ It's really simple, the script reads the server credentials from the config file
 
 
 
+
 # Installation Steps:
 1. Install latest version of Python
 2. Open cmd and type ```pip install parakimo``` and then ```pip install setproctitle```
