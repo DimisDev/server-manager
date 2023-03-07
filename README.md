@@ -22,4 +22,3 @@ It's really simple, the script reads the server credentials from the config file
 
 ## Credits
 - [@DimisSSH](https://github.com/DimisSSH)
-- [OpenAI](https://chat.openai.com) (Helped me on some stuff with config load)
