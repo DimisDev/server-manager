@@ -22,4 +22,4 @@ It's really simple, the script reads the server credentials from the config file
 
 
 ## Credits
-- [@DimisSSH](https://github.com/DimisSSH)
+- [@DimisDev](https://github.com/DimisDev)
